@@ -2,7 +2,7 @@
 
 Focusnetworks Stylesheet code styleguide.
 
-## Table of contents
+## Menu
 
 * [Disclaimer](#disclaimer)
 * [Introdução](#Introdução)
@@ -39,7 +39,7 @@ Focusnetworks Stylesheet code styleguide.
 
 ## Disclaimer
 
-Esse gui foi inspirado por [Mark Otto's Code Guide](http://mdo.github.io/code-guide/#css) e [Idiomatic CSS](https://github.com/necolas/idiomatic-css).
+Esse guia foi inspirado por [Mark Otto's Code Guide](http://mdo.github.io/code-guide/#css) e [Idiomatic CSS](https://github.com/necolas/idiomatic-css).
 
 ## Introdução
 

@@ -2,7 +2,7 @@
 
 Focusnetworks markup code styleguide.
 
-## Table of contents
+## Menu
 
 * [Disclaimer](#disclaimer)
 * [Doctype](#doctype)
