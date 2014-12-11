@@ -152,7 +152,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 
 **[⬆ voltar ao topo](#menu)**
 
-## Quotes
+## Aspas
 
 * Sempre use aspas duplas `"` para envolver os atributos.
 
