@@ -7,10 +7,10 @@ Focusnetworks markup code styleguide.
 * [Disclaimer](#disclaimer)
 * [Doctype](#doctype)
 * [`lang`](#lang)
-* [Modo de compatibilidade IE](#modo-de-compatibilidade-IE)
+* [Compatibilidade IE](#compatibilidade-IE)
 * [Encoding](#encoding)
 * [CSS e JavaScript includes](#css-e-javascript-includes)
-* [Nomeclatura](#nomeclatura)
+* [Nomenclatura](#nomenclatura)
 * [Ordem dos atributos](#ordem-dos-atributos)
 * [Atributos booleanos](#atributos-booleanos)
 * [Aspas](#aspas)
@@ -60,7 +60,7 @@ Esse documento foi inspirado nos guides de [Mark Otto's Code Guide](http://mdo.g
 
 **[⬆ voltar ao topo](#table-of-contents)**
 
-## Modo de compatibilidade IE
+## Compatibilidade IE
 
 Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão do browser deve ser renderizada. Por padrão forçamos o Edge Mode.
 
