@@ -7,25 +7,25 @@ Focusnetworks markup code styleguide.
 * [Disclaimer](#disclaimer)
 * [Doctype](#doctype)
 * [`lang`](#lang)
-* [IE compatibility mode](#ie-compatibility-mode)
+* [Modo de compatibilidade IE](#modo-de-compatibilidade-IE)
 * [Encoding](#encoding)
-* [CSS and JavaScript includes](#css-and-javascript-includes)
-* [Naming](#naming)
-* [Attribute order](#attribute-order)
-* [Boolean attributes](#boolean-attributes)
-* [Quotes](#quotes)
-* [Self closing tags](#self-closing-tabs)
-* [Optional closing tags](#optional-closing-tags)
+* [CSS e JavaScript includes](#css-e-javascript-includes)
+* [Nomeclatura](#nomeclatura)
+* [Ordem dos atributos](#ordem-dos-atributos)
+* [Atributos booleanos](#atributos-booleanos)
+* [Aspas](#aspas)
+* [Tags de auto fechamento](#tags-de-auto-fechamento)
+* [Tags de fechcamento opcional](#tags-de-fechamento-opcional)
 * [Inline JavaScript](#inline-javascript)
-* [Semantics](#semantics)
-* [Whitespace](#whitespace)
+* [Inline CSS](#inline-css)
+* [Semântica](#semântica)
+* [Espaços em branco](#espaços-em-branco)
   * [Tabs](#tabs)
   * [EOF](#eof)
-  * [Multiple attributes](#multiple-attributes)
-  * [Closing self closing tags](#closing-self-closing-tags)
+  * [Fechando tags de auto fechamento](#fechando-tags-de-auto-fechamento)
 * [Templates](#templates)
 * [`x-template`](#x-template)
-* [`id` over `class`](#id-over-class)
+* [`id` ao invés de `class`](#id-ao-invés-de-class)
 * [Links](#links)
   * [Websites](#websites)
 
@@ -267,7 +267,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 </script>
 ```
 
-### `id` over `class`
+### `id` ao  invés de `class`
 
 * Elementos template devem ser identificados através de `id` ao invés de` class`. Adicionar o sufixo `template` também.
 
