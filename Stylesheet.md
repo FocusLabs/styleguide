@@ -63,7 +63,7 @@ color: #EAEAE2;
 // Good
 color: #eaeae2;
 ```
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Unidades
 
@@ -132,19 +132,19 @@ p {
 }
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Imagens inline
 
 * Imagens inline só são permitidas se o seu tamanho for menor que **1KB** e presentes apenas uma vez no code. Evite imagens inline.
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## `!important`
 
 * Se você não pode explicar o por que de um `!important` ser importante, provavelmente não é importante :sunglasses:
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Pseudo elementos
 
@@ -162,7 +162,7 @@ p {
 }
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Comentários
 
@@ -184,7 +184,7 @@ p {
 
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Aspas
 
@@ -234,7 +234,7 @@ input[type="number"] {
 }
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Especificidade e aninhamento
 
@@ -276,7 +276,7 @@ input[type="number"] {
 }
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Convenções de nomenclatura
 
@@ -362,7 +362,7 @@ input[type="number"] {
 }
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Espaços em branco
 
@@ -512,7 +512,7 @@ input[type="number"] {
 }
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Links
 
@@ -528,4 +528,4 @@ input[type="number"] {
 * [csslint.vim](http://www.vim.org/scripts/script.php?script_id=3823)
 * [st-snippets](https://github.com/rafaelrinaldi/st-snippets/tree/master/comments)
 
-**[⬅ voltar à página inicial](../../)**&nbsp;&nbsp;&nbsp;&nbsp;**[⬆ voltar ao topo](#table-of-contents)**
+**[⬅ voltar à página inicial](../../)**&nbsp;&nbsp;&nbsp;&nbsp;**[⬆ voltar ao topo](#menu)**

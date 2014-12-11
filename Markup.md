@@ -33,7 +33,7 @@ Focusnetworks markup code styleguide.
 
 Esse documento foi inspirado nos guides de [Mark Otto's Code Guide](http://mdo.github.io/code-guide/#html), [Harry Roberts's coding style](http://csswizardry.com/2012/04/my-html-css-coding-style) e [Idiomatic HTML](https://github.com/necolas/idiomatic-html).
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Doctype
 
@@ -47,7 +47,7 @@ Esse documento foi inspirado nos guides de [Mark Otto's Code Guide](http://mdo.g
 </html>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## `lang`
 
@@ -58,7 +58,7 @@ Esse documento foi inspirado nos guides de [Mark Otto's Code Guide](http://mdo.g
 </html>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Compatibilidade IE
 
@@ -68,7 +68,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Encoding
 
@@ -80,7 +80,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 </head>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## CSS e JavaScript includes
 
@@ -94,7 +94,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <script src="path/to/script.js"></script>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Nomenclatura
 
@@ -108,7 +108,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <div id="adversiting-modal" class="modal-base drop-shadow-FX"></div>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Ordem dos atributos
 
@@ -130,7 +130,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <div id="btn" class="js-button clearfix grid-size-2 button is-opaque" data-fx="fade" hidden></div>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Atributos booleanos
 
@@ -150,7 +150,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <input type="submit" disabled>Send email</input>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Quotes
 
@@ -164,7 +164,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <button id="my-button" data-fx="fade">Fade!</button>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Tags de auto fechamento
 
@@ -184,7 +184,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <img src="path/to/image.png" />
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Tags de fechamento opcional
 
@@ -206,25 +206,25 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 </ul>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Inline JavaScript
 
 * Evite escrever Javascript em documentos HTML, eles são difíceis de detectar.
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Inline CSS
 
 * Evite escrever CSS em documentos HTML, eles são difíceis de detectar.
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Semântica
 
 * Esforce-se para manter os padrões de HTML e semântica, mas não às custas da praticidade. Use a menor quantidade de marcação sempre que possível.
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Espaços em branco
 
@@ -283,7 +283,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 </script>
 ```
 
-**[⬆ voltar ao topo](#table-of-contents)**
+**[⬆ voltar ao topo](#menu)**
 
 ## Links
 
@@ -291,4 +291,4 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 
 * [HTML5 Doctor](http://html5doctor.com)
 
-**[⬅ voltar à página inicial](../../)**&nbsp;&nbsp;&nbsp;&nbsp;**[⬆ voltar ao topo](#table-of-contents)**
+**[⬅ voltar à página inicial](../../)**&nbsp;&nbsp;&nbsp;&nbsp;**[⬆ voltar ao topo](#menu)**
