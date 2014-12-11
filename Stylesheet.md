@@ -5,7 +5,6 @@ Focusnetworks Stylesheet code styleguide.
 ## Menu
 
 * [Disclaimer](#disclaimer)
-* [Introdução](#Introdução)
 * [Cores](#cores)
 * [Unidades](#Unidades)
   * [Valores Nulo](#valores-nulo)
@@ -40,16 +39,6 @@ Focusnetworks Stylesheet code styleguide.
 ## Disclaimer
 
 Esse guia foi inspirado por [Mark Otto's Code Guide](http://mdo.github.io/code-guide/#css) e [Idiomatic CSS](https://github.com/necolas/idiomatic-css).
-
-## Introdução
-
-* To write our stylesheets we use methodologies and tools that you need to spend some time and get familiar with:
-	1. We use a mix of rules specified by [SMACSS](http://smacss.com), [BEM](http://bem.info) and [SUIT](http://suitcss.github.io) for a more modular approach of writing components.
-	2. We use [Sass](http://sass-lang.com) with css syntax as a pre-processor of our CSS code.
-	3. We use [Compass](http://compass-style.org) to help with things like vendor prefixes and spritesheet generation.
-  4. Haters gonna hate.
-
-**[⬆ voltar ao topo](#table-of-contents)**
 
 ## Cores
 
