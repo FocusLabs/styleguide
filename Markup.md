@@ -105,7 +105,7 @@ Utilizamos a tag `<meta>` de compatibilidade para especificar ao IE qual versão
 <div id="adversitingModal" class="ModalBase dropShadowFX"></div>
 
 <!-- Good -->
-<div id="adversitingModal-modal" class="modal-base drop-shadow-FX"></div>
+<div id="adversiting-modal" class="modal-base drop-shadow-FX"></div>
 ```
 
 **[⬆ voltar ao topo](#table-of-contents)**
