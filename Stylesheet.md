@@ -1,6 +1,6 @@
-# `.magnetis {}`
+# `.focusnetworks {}`
 
-Magnetis Stylesheet code styleguide.
+Focusnetworks Stylesheet code styleguide.
 
 ## Table of contents
 
